@@ -37,5 +37,10 @@
       gtag('js', new Date());
       gtag('config', 'UA-135893796-1');
     </script>
+    {% if page.canonical_url != nil %}
+    <link rel="canonical" href="{{ page.canonical_url }}"/>
+    {% else %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %}
   </head>
   <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
