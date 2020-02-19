@@ -1,0 +1,27 @@
+---
+label: drone-cache
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: comments
+  label: comments
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: author
+  label: author
+- type: file
+  name: image
+  label: image
+- type: text
+  name: canonical_url
+  label: canonical_url
+pages:
+- _posts/where-were-we.md
