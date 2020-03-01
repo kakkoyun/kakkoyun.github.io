@@ -16,14 +16,14 @@ defaults:
     values:
       layout: "post"
 
-# projects:
+projects:
 #   sort_by: stars
 #   # sort_by options:
 #   #   - pushed
 #   #   - stars
 #   limit: 9
-#   exclude:
-#     archived: true
+  exclude:
+    archived: true
 #     forks: false
 #     projects:
 #     - image-searcher
