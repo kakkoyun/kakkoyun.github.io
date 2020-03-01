@@ -22,9 +22,10 @@ projects:
 #   #   - pushed
 #   #   - stars
 #   limit: 9
+  include:
+    forks: false  
   exclude:
     archived: true
-#     forks: false
 #     projects:
 #     - image-searcher
 #     - contentful-sync
