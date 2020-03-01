@@ -49,34 +49,34 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://kakkoyun.me
   # youtube: your_username
 
-topics:
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://avatars1.githubusercontent.com/u/4314092?s=200&v=4
+# topics:
+#   - name: Go
+#     web_url: https://github.com/topics/go
+#     image_url: https://avatars1.githubusercontent.com/u/4314092?s=200&v=4
 
-  - name: Kubernetes
-    web_url: https://github.com/topics/kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
+#   - name: Kubernetes
+#     web_url: https://github.com/topics/kubernetes
+#     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
-  # - name: Monitoring
-    # web_url: https://github.com/topics/monitoring
-    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
+#   # - name: Monitoring
+#     # web_url: https://github.com/topics/monitoring
+#     # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
 
-  - name: Prometheus
-    web_url: https://github.com/topics/prometheus
-    image_url: https://avatars1.githubusercontent.com/u/3380462
+#   - name: Prometheus
+#     web_url: https://github.com/topics/prometheus
+#     image_url: https://avatars1.githubusercontent.com/u/3380462
 
-  - name: Thanos
-    web_url: https://github.com/topics/thanos
-    image_url: https://avatars3.githubusercontent.com/u/49725059
+#   - name: Thanos
+#     web_url: https://github.com/topics/thanos
+#     image_url: https://avatars3.githubusercontent.com/u/49725059
 
-  - name: Docker
-    web_url: https://github.com/topics/docker
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+#   - name: Docker
+#     web_url: https://github.com/topics/docker
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
 
-  - name: Elixir
-    web_url: https://github.com/topics/elixir
-    image_url: https://avatars2.githubusercontent.com/u/1481354?s=200&v=4
+#   - name: Elixir
+#     web_url: https://github.com/topics/elixir
+#     image_url: https://avatars2.githubusercontent.com/u/1481354?s=200&v=4
