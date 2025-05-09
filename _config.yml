@@ -24,9 +24,9 @@ projects:
   limit: 7
 exclude:
   archived: true
-  projects:
-    - image-searcher
-    - contentful-sync
+  # projects:
+  #   - image-searcher
+  #   - contentful-sync
 
 social_media:
   linkedin: kakkoyun
