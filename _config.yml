@@ -22,8 +22,8 @@ projects:
   #   - pushed
   #   - stars
   limit: 7
-exclude:
-  archived: true
+# exclude:
+  # archived: true
   # projects:
   #   - image-searcher
   #   - contentful-sync
