@@ -24,7 +24,7 @@ projects:
   limit: 7
 exclude:
   archived: true
-    projects:
+  projects:
     - image-searcher
     - contentful-sync
 
